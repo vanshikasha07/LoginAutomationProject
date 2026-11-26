@@ -1,0 +1,1564 @@
+2026-11-02 22:53:27 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: emptyLogin
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: emptyPassword
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidLoginKeepsUserOnLoginPage
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidPassword
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: invalidUsername
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: loginCanBeSubmittedWithEnterKey
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: loginErrorCanBeDismissed
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: loginPageDisplaysExpectedElements
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: logoutTest
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: passwordFieldMasksCharacters
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: secureAreaIsUnavailableAfterLogout
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: secureAreaRequiresAuthentication
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: validLoginShowsSecureArea
+2026-11-02 22:53:28 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-02 22:53:28 WARN  [main] LoginTestListener - Test skipped: whitespaceUsernameIsRejected
+2026-11-02 22:53:30 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-02 22:54:53 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-02 22:54:53 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-02 22:55:08 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:55:08 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:55:09 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 22:55:10 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1698 ms)
+2026-11-02 22:55:18 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:55:18 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 22:55:19 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (947 ms)
+2026-11-02 22:55:25 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:55:25 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:55:26 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1107 ms)
+2026-11-02 22:55:31 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 22:55:31 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 22:55:33 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1498 ms)
+2026-11-02 22:55:41 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-02 22:55:42 INFO  [main] LoginTestListener - Test passed: emptyLogin (928 ms)
+2026-11-02 22:55:47 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-02 22:55:47 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:55:48 INFO  [main] LoginTestListener - Test passed: emptyPassword (949 ms)
+2026-11-02 22:55:56 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:55:56 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-02 22:55:57 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (976 ms)
+2026-11-02 22:56:02 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:56:02 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-02 22:56:03 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (968 ms)
+2026-11-02 22:56:15 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:56:15 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-02 22:56:17 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1203 ms)
+2026-11-02 22:56:29 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:56:29 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:56:30 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1690 ms)
+2026-11-02 22:56:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:56:41 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:56:42 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1144 ms)
+2026-11-02 22:56:49 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 22:56:49 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:56:50 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1286 ms)
+2026-11-02 22:56:56 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-02 22:56:57 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 22:56:58 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1303 ms)
+2026-11-02 22:57:06 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-02 22:57:06 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:57:07 INFO  [main] LoginTestListener - Test passed: invalidPassword (1011 ms)
+2026-11-02 22:57:17 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-02 22:57:17 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 22:57:19 INFO  [main] LoginTestListener - Test passed: invalidUsername (1496 ms)
+2026-11-02 22:57:28 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-02 22:57:28 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-02 22:57:29 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (1421 ms)
+2026-11-02 22:57:35 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-02 22:57:35 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 22:57:37 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (2095 ms)
+2026-11-02 22:57:43 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-02 22:57:43 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (146 ms)
+2026-11-02 22:57:50 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-02 22:57:50 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 22:57:51 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 22:57:52 INFO  [main] LoginTestListener - Test passed: logoutTest (1828 ms)
+2026-11-02 22:58:13 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-02 22:58:13 WARN  [main] LoginTestListener - Test skipped: passwordFieldMasksCharacters
+2026-11-02 22:58:13 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-02 22:58:13 WARN  [main] LoginTestListener - Test skipped: secureAreaIsUnavailableAfterLogout
+2026-11-02 22:58:13 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-02 22:58:13 WARN  [main] LoginTestListener - Test skipped: secureAreaRequiresAuthentication
+2026-11-02 22:58:13 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-02 22:58:13 WARN  [main] LoginTestListener - Test skipped: validLoginShowsSecureArea
+2026-11-02 22:58:13 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-02 22:58:13 WARN  [main] LoginTestListener - Test skipped: whitespaceUsernameIsRejected
+2026-11-02 22:58:14 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-02 23:00:15 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-02 23:00:41 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:00:41 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:00:43 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 23:00:44 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2749 ms)
+2026-11-02 23:00:54 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:00:54 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:00:56 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1462 ms)
+2026-11-02 23:01:27 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:01:27 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:01:30 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2692 ms)
+2026-11-02 23:01:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:01:40 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:01:41 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (944 ms)
+2026-11-02 23:01:57 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-02 23:01:57 INFO  [main] LoginTestListener - Test passed: emptyLogin (720 ms)
+2026-11-02 23:02:08 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-02 23:02:08 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:02:10 INFO  [main] LoginTestListener - Test passed: emptyPassword (1884 ms)
+2026-11-02 23:02:30 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:02:30 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-02 23:02:33 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (3324 ms)
+2026-11-02 23:02:45 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:02:45 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-02 23:02:46 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1502 ms)
+2026-11-02 23:02:57 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:02:57 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-02 23:02:58 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1068 ms)
+2026-11-02 23:03:29 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:03:29 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:03:30 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1393 ms)
+2026-11-02 23:04:24 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:04:24 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:04:29 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (5087 ms)
+2026-11-02 23:04:54 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:04:54 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:04:56 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1316 ms)
+2026-11-02 23:05:01 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-02 23:05:01 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:05:03 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1809 ms)
+2026-11-02 23:05:20 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-02 23:05:20 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:05:21 INFO  [main] LoginTestListener - Test passed: invalidPassword (913 ms)
+2026-11-02 23:05:30 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-02 23:05:30 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:05:31 INFO  [main] LoginTestListener - Test passed: invalidUsername (955 ms)
+2026-11-02 23:05:50 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-02 23:05:50 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-02 23:05:52 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (1872 ms)
+2026-11-02 23:05:59 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-02 23:05:59 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:06:01 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1615 ms)
+2026-11-02 23:06:11 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-02 23:06:11 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (137 ms)
+2026-11-02 23:06:36 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-02 23:06:36 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:06:37 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 23:06:37 INFO  [main] LoginTestListener - Test passed: logoutTest (1881 ms)
+2026-11-02 23:06:43 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-02 23:06:43 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (167 ms)
+2026-11-02 23:06:50 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-02 23:06:50 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:06:51 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 23:06:53 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (2391 ms)
+2026-11-02 23:07:33 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-02 23:07:38 INFO  [main] LoginTestListener - Test passed: secureAreaRequiresAuthentication (5326 ms)
+2026-11-02 23:07:48 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-02 23:07:48 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:07:49 INFO  [main] LoginTestListener - Test passed: validLoginShowsSecureArea (964 ms)
+2026-11-02 23:07:55 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-02 23:07:55 INFO  [main] LoginPage - Attempting login with username '   '
+2026-11-02 23:07:56 INFO  [main] LoginTestListener - Test passed: whitespaceUsernameIsRejected (942 ms)
+2026-11-02 23:07:57 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-02 23:13:45 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-02 23:13:55 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:13:55 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:13:58 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 23:13:58 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2766 ms)
+2026-11-02 23:14:06 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:14:06 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:14:08 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1231 ms)
+2026-11-02 23:14:20 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:14:20 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:14:21 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1350 ms)
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: emptyLogin
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: emptyPassword
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidLoginKeepsUserOnLoginPage
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidPassword
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: invalidUsername
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: loginCanBeSubmittedWithEnterKey
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: loginErrorCanBeDismissed
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: loginPageDisplaysExpectedElements
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: logoutTest
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: passwordFieldMasksCharacters
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: secureAreaIsUnavailableAfterLogout
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: secureAreaRequiresAuthentication
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: validLoginShowsSecureArea
+2026-11-02 23:14:35 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-02 23:14:35 WARN  [main] LoginTestListener - Test skipped: whitespaceUsernameIsRejected
+2026-11-02 23:14:36 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-02 23:26:41 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-02 23:26:49 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:26:49 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:26:50 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-02 23:26:51 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2004 ms)
+2026-11-02 23:26:55 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:26:55 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-02 23:26:57 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1422 ms)
+2026-11-02 23:27:02 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:27:02 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-02 23:27:04 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1274 ms)
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: emptyLogin
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: emptyPassword
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidLoginKeepsUserOnLoginPage
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidPassword
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: invalidUsername
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: loginCanBeSubmittedWithEnterKey
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: loginErrorCanBeDismissed
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: loginPageDisplaysExpectedElements
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: logoutTest
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: passwordFieldMasksCharacters
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: secureAreaIsUnavailableAfterLogout
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: secureAreaRequiresAuthentication
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: validLoginShowsSecureArea
+2026-11-02 23:27:17 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-02 23:27:17 WARN  [main] LoginTestListener - Test skipped: whitespaceUsernameIsRejected
+2026-11-02 23:27:18 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-03 00:51:51 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 00:52:17 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:52:17 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:52:18 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 00:52:19 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2091 ms)
+2026-11-03 00:52:25 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:52:25 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 00:52:27 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1226 ms)
+2026-11-03 00:52:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:52:40 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-03 00:52:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:52:40 WARN  [main] LoginTestListener - Test skipped: credentialCombinationsBehaveAsExpected
+2026-11-03 00:52:40 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 00:52:40 WARN  [main] LoginTestListener - Test skipped: emptyLogin
+2026-11-03 00:52:40 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 00:52:40 WARN  [main] LoginTestListener - Test skipped: emptyPassword
+2026-11-03 00:52:40 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:40 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidCredentialCombinationsAreRejected
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidLoginKeepsUserOnLoginPage
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidPassword
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: invalidUsername
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: loginCanBeSubmittedWithEnterKey
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: loginErrorCanBeDismissed
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: loginPageDisplaysExpectedElements
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: logoutTest
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: passwordFieldMasksCharacters
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: secureAreaIsUnavailableAfterLogout
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: secureAreaRequiresAuthentication
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: validLoginShowsSecureArea
+2026-11-03 00:52:41 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-03 00:52:41 WARN  [main] LoginTestListener - Test skipped: whitespaceUsernameIsRejected
+2026-11-03 00:52:44 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-03 00:54:15 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 00:54:23 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:54:23 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:54:25 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 00:54:25 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2135 ms)
+2026-11-03 00:54:36 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:54:36 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 00:54:38 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1273 ms)
+2026-11-03 00:54:45 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:54:45 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:54:46 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1241 ms)
+2026-11-03 00:54:54 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 00:54:54 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 00:54:55 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1299 ms)
+2026-11-03 00:55:03 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 00:55:04 INFO  [main] LoginTestListener - Test passed: emptyLogin (835 ms)
+2026-11-03 00:55:15 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 00:55:15 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:55:16 INFO  [main] LoginTestListener - Test passed: emptyPassword (1321 ms)
+2026-11-03 00:55:24 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:55:24 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 00:55:25 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1260 ms)
+2026-11-03 00:55:47 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:55:47 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 00:55:48 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1464 ms)
+2026-11-03 00:55:56 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:55:56 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 00:55:58 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1318 ms)
+2026-11-03 00:56:05 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:56:05 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:56:06 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1325 ms)
+2026-11-03 00:56:16 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:56:16 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:56:17 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1174 ms)
+2026-11-03 00:56:24 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 00:56:24 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:56:25 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1299 ms)
+2026-11-03 00:56:32 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 00:56:32 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 00:56:33 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1139 ms)
+2026-11-03 00:56:40 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 00:56:40 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:56:42 INFO  [main] LoginTestListener - Test passed: invalidPassword (1723 ms)
+2026-11-03 00:56:48 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 00:56:48 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 00:56:50 INFO  [main] LoginTestListener - Test passed: invalidUsername (1297 ms)
+2026-11-03 00:56:57 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 00:56:57 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 00:57:00 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (2902 ms)
+2026-11-03 00:57:12 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 00:57:12 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 00:57:14 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (2263 ms)
+2026-11-03 00:57:22 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 00:57:22 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (374 ms)
+2026-11-03 00:57:38 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 00:57:38 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:57:39 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 00:57:40 INFO  [main] LoginTestListener - Test passed: logoutTest (2316 ms)
+2026-11-03 00:57:47 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 00:57:47 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (263 ms)
+2026-11-03 00:57:55 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 00:57:55 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 00:57:57 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 00:58:01 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (5409 ms)
+2026-11-03 01:00:03 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 01:00:03 INFO  [main] LoginTestListener - Screenshot folder created at target\screenshots
+2026-11-03 01:00:22 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:00:22 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:00:23 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:00:24 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2008 ms)
+2026-11-03 01:00:31 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:00:31 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:00:32 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1164 ms)
+2026-11-03 01:00:41 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:00:41 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:00:42 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1208 ms)
+2026-11-03 01:00:47 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:00:47 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:00:48 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1218 ms)
+2026-11-03 01:00:53 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:00:54 INFO  [main] LoginTestListener - Test passed: emptyLogin (1026 ms)
+2026-11-03 01:00:59 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:00:59 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:01:00 INFO  [main] LoginTestListener - Test passed: emptyPassword (1400 ms)
+2026-11-03 01:01:05 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:01:05 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:01:06 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1404 ms)
+2026-11-03 01:13:25 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 01:13:27 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 01:13:37 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:13:37 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:13:39 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:13:39 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1865 ms)
+2026-11-03 01:13:46 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:13:46 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:13:48 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1122 ms)
+2026-11-03 01:13:54 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:13:54 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:13:55 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1174 ms)
+2026-11-03 01:14:06 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:14:06 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:14:07 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1129 ms)
+2026-11-03 01:14:14 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:14:14 INFO  [main] LoginTestListener - Test passed: emptyLogin (675 ms)
+2026-11-03 01:14:21 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:14:21 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:14:22 INFO  [main] LoginTestListener - Test passed: emptyPassword (945 ms)
+2026-11-03 01:14:29 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:14:29 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:14:30 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1080 ms)
+2026-11-03 01:16:14 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 01:16:14 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 01:16:22 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:16:22 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:16:22 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:16:23 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1597 ms)
+2026-11-03 01:16:32 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:16:32 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:16:33 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (930 ms)
+2026-11-03 01:16:37 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:16:37 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:16:39 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1482 ms)
+2026-11-03 01:16:45 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:16:45 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:16:46 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (923 ms)
+2026-11-03 01:16:55 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:16:56 INFO  [main] LoginTestListener - Test passed: emptyLogin (635 ms)
+2026-11-03 01:17:00 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:17:00 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:17:01 INFO  [main] LoginTestListener - Test passed: emptyPassword (1003 ms)
+2026-11-03 01:17:05 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:17:05 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:17:07 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1483 ms)
+2026-11-03 01:17:14 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:17:14 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 01:17:15 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (946 ms)
+2026-11-03 01:17:29 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:17:29 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 01:17:30 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (878 ms)
+2026-11-03 01:17:36 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:17:36 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:17:37 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (890 ms)
+2026-11-03 01:17:43 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:17:43 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:17:44 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (864 ms)
+2026-11-03 01:17:49 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:17:49 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:17:50 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (898 ms)
+2026-11-03 01:17:55 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 01:17:55 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:17:56 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1028 ms)
+2026-11-03 01:17:59 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 01:17:59 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:18:00 INFO  [main] LoginTestListener - Test passed: invalidPassword (758 ms)
+2026-11-03 01:18:06 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 01:18:06 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:18:08 INFO  [main] LoginTestListener - Test passed: invalidUsername (1495 ms)
+2026-11-03 01:18:12 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 01:18:12 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 01:18:13 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (913 ms)
+2026-11-03 01:18:18 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 01:18:18 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:18:20 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (2123 ms)
+2026-11-03 01:18:25 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 01:18:25 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (216 ms)
+2026-11-03 01:18:28 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 01:18:28 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:18:29 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:18:30 INFO  [main] LoginTestListener - Test passed: logoutTest (1593 ms)
+2026-11-03 01:18:34 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 01:18:35 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (284 ms)
+2026-11-03 01:18:39 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 01:18:39 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:18:40 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:18:41 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (2037 ms)
+2026-11-03 01:18:49 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-03 01:18:49 INFO  [main] LoginTestListener - Test passed: secureAreaRequiresAuthentication (527 ms)
+2026-11-03 01:18:54 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-03 01:18:54 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:18:55 INFO  [main] LoginTestListener - Test passed: validLoginShowsSecureArea (986 ms)
+2026-11-03 01:18:59 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-03 01:18:59 INFO  [main] LoginPage - Attempting login with username '   '
+2026-11-03 01:19:00 INFO  [main] LoginTestListener - Test passed: whitespaceUsernameIsRejected (846 ms)
+2026-11-03 01:19:01 INFO  [main] LoginTestListener - Extent report generated at target\ExtentReports\ExtentReport.html
+2026-11-03 01:33:44 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 01:33:44 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 01:33:59 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:33:59 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:34:01 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:34:02 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2358 ms)
+2026-11-03 01:34:06 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:34:06 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:34:07 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1132 ms)
+2026-11-03 01:34:11 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:34:11 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:34:12 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (908 ms)
+2026-11-03 01:34:17 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:34:17 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:34:18 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (888 ms)
+2026-11-03 01:34:22 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 01:34:22 ERROR [main] LoginTestListener - Test failed: demoFailedTest (270 ms)
+java.lang.AssertionError: Demo test failure expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 01:34:22 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793649862723_932e3cf5-0185-451d-b308-5599bd58b48b.png
+2026-11-03 01:34:27 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:34:28 INFO  [main] LoginTestListener - Test passed: emptyLogin (833 ms)
+2026-11-03 01:34:32 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:34:32 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:34:33 INFO  [main] LoginTestListener - Test passed: emptyPassword (859 ms)
+2026-11-03 01:34:37 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:34:37 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:34:38 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (995 ms)
+2026-11-03 01:34:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:34:41 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 01:34:42 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (877 ms)
+2026-11-03 01:34:46 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:34:46 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 01:34:47 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (876 ms)
+2026-11-03 01:34:53 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:34:53 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:34:54 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (925 ms)
+2026-11-03 01:34:58 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:34:58 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:34:59 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (909 ms)
+2026-11-03 01:35:02 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:35:02 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:35:03 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (934 ms)
+2026-11-03 01:35:07 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 01:35:07 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:35:08 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (939 ms)
+2026-11-03 01:35:13 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 01:35:13 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:35:15 INFO  [main] LoginTestListener - Test passed: invalidPassword (1365 ms)
+2026-11-03 01:35:22 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 01:35:22 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:35:23 INFO  [main] LoginTestListener - Test passed: invalidUsername (929 ms)
+2026-11-03 01:35:28 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 01:35:28 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 01:35:29 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (796 ms)
+2026-11-03 01:35:33 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 01:35:33 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:35:34 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1581 ms)
+2026-11-03 01:35:38 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 01:35:38 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (194 ms)
+2026-11-03 01:35:42 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 01:35:42 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:35:43 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:35:44 INFO  [main] LoginTestListener - Test passed: logoutTest (1457 ms)
+2026-11-03 01:35:47 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 01:35:48 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (185 ms)
+2026-11-03 01:35:53 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 01:35:53 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:35:55 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:41:48 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 01:41:48 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 01:41:56 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:41:56 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:41:57 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:41:58 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1652 ms)
+2026-11-03 01:42:02 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:42:02 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:42:03 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (912 ms)
+2026-11-03 01:42:07 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:42:07 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:42:08 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (955 ms)
+2026-11-03 01:42:13 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:42:13 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:42:14 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (998 ms)
+2026-11-03 01:42:18 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 01:42:18 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:42:18 ERROR [main] LoginTestListener - Test failed: demoFailedTest (867 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 01:42:19 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793650338916_2a8ab9b2-db80-47d2-843e-1073e0c6882b.png
+2026-11-03 01:42:24 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:42:25 INFO  [main] LoginTestListener - Test passed: emptyLogin (1142 ms)
+2026-11-03 01:42:31 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:42:31 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:42:31 INFO  [main] LoginTestListener - Test passed: emptyPassword (834 ms)
+2026-11-03 01:42:37 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:42:37 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:42:38 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (902 ms)
+2026-11-03 01:42:41 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:42:41 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 01:42:43 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1467 ms)
+2026-11-03 01:42:47 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:42:47 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 01:42:48 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (880 ms)
+2026-11-03 01:42:52 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:42:52 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:42:53 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (949 ms)
+2026-11-03 01:43:00 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:43:00 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:43:01 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1063 ms)
+2026-11-03 01:43:05 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:43:05 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:43:05 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (874 ms)
+2026-11-03 01:43:11 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 01:43:11 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:43:12 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (935 ms)
+2026-11-03 01:43:18 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 01:43:18 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:43:19 INFO  [main] LoginTestListener - Test passed: invalidPassword (749 ms)
+2026-11-03 01:43:23 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 01:43:23 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:43:24 INFO  [main] LoginTestListener - Test passed: invalidUsername (1421 ms)
+2026-11-03 01:43:28 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 01:43:28 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 01:43:29 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (961 ms)
+2026-11-03 01:43:34 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 01:43:34 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:43:35 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1414 ms)
+2026-11-03 01:43:43 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 01:43:44 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (250 ms)
+2026-11-03 01:43:49 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 01:43:49 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:43:50 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:43:51 INFO  [main] LoginTestListener - Test passed: logoutTest (1677 ms)
+2026-11-03 01:43:55 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 01:43:56 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (225 ms)
+2026-11-03 01:44:02 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 01:44:02 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:44:03 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:49:17 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 01:49:17 INFO  [main] LoginTestListener - Extent report initialized at target\ExtentReports\ExtentReport.html
+2026-11-03 01:49:24 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:49:24 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:49:25 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:49:26 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1603 ms)
+2026-11-03 01:49:30 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:49:30 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:49:31 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (947 ms)
+2026-11-03 01:49:35 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:49:35 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:49:36 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (868 ms)
+2026-11-03 01:49:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:49:40 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:49:41 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (941 ms)
+2026-11-03 01:49:46 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 01:49:46 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:49:47 ERROR [main] LoginTestListener - Test failed: demoFailedTest (936 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 01:49:48 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793650787840_ef445a88-1ab0-41a4-bc13-b2ce594ff184.png
+2026-11-03 01:49:52 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:49:53 INFO  [main] LoginTestListener - Test passed: emptyLogin (712 ms)
+2026-11-03 01:49:57 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:49:57 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:49:58 INFO  [main] LoginTestListener - Test passed: emptyPassword (805 ms)
+2026-11-03 01:50:03 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:50:03 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:50:03 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (940 ms)
+2026-11-03 01:50:08 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:50:08 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 01:50:09 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (903 ms)
+2026-11-03 01:50:17 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:50:17 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 01:50:18 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (943 ms)
+2026-11-03 01:50:22 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:50:22 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:50:23 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (948 ms)
+2026-11-03 01:50:27 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:50:27 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:50:28 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1392 ms)
+2026-11-03 01:50:32 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:50:32 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:50:33 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (897 ms)
+2026-11-03 01:50:37 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 01:50:37 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:50:38 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (832 ms)
+2026-11-03 01:50:41 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 01:50:41 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:50:42 INFO  [main] LoginTestListener - Test passed: invalidPassword (900 ms)
+2026-11-03 01:50:46 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 01:50:46 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:50:47 INFO  [main] LoginTestListener - Test passed: invalidUsername (875 ms)
+2026-11-03 01:50:52 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 01:50:52 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 01:50:53 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (790 ms)
+2026-11-03 01:50:58 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 01:50:58 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:51:00 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1617 ms)
+2026-11-03 01:57:01 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 01:57:01 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 01:57:12 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:57:12 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:57:13 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 01:57:13 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1706 ms)
+2026-11-03 01:57:20 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:57:20 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:57:22 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1456 ms)
+2026-11-03 01:57:29 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:57:29 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:57:30 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (905 ms)
+2026-11-03 01:57:41 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 01:57:41 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 01:57:42 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1485 ms)
+2026-11-03 01:57:47 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 01:57:47 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:57:48 ERROR [main] LoginTestListener - Test failed: demoFailedTest (1055 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 01:57:48 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793651268186_812251b1-3972-426a-97e2-9732cb1c4066.png
+2026-11-03 01:57:52 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 01:57:53 INFO  [main] LoginTestListener - Test passed: emptyLogin (810 ms)
+2026-11-03 01:57:59 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 01:57:59 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:58:00 INFO  [main] LoginTestListener - Test passed: emptyPassword (949 ms)
+2026-11-03 01:58:05 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:58:05 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 01:58:06 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (867 ms)
+2026-11-03 01:58:11 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:58:11 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 01:58:12 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (807 ms)
+2026-11-03 01:58:16 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:58:16 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 01:58:17 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (841 ms)
+2026-11-03 01:58:23 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:58:23 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:58:24 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (960 ms)
+2026-11-03 01:58:29 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 01:58:29 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 01:58:30 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (991 ms)
+2026-11-03 02:03:39 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 02:03:39 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 02:03:50 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:03:50 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:03:51 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:03:52 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1707 ms)
+2026-11-03 02:03:57 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:03:57 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:03:58 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1158 ms)
+2026-11-03 02:04:05 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:04:05 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:04:06 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1094 ms)
+2026-11-03 02:04:14 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:04:14 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:04:15 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1001 ms)
+2026-11-03 02:04:21 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 02:04:21 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:04:22 ERROR [main] LoginTestListener - Test failed: demoFailedTest (1176 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:04:22 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793651662534_95bbef95-f606-4a13-9e90-049e17cc5803.png
+2026-11-03 02:04:30 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 02:04:30 INFO  [main] LoginTestListener - Test passed: emptyLogin (674 ms)
+2026-11-03 02:04:39 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 02:04:39 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:04:40 INFO  [main] LoginTestListener - Test passed: emptyPassword (899 ms)
+2026-11-03 02:04:49 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:04:49 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 02:04:50 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (915 ms)
+2026-11-03 02:04:55 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:04:55 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 02:04:56 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (896 ms)
+2026-11-03 02:05:03 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:05:03 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 02:05:04 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (951 ms)
+2026-11-03 02:05:09 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:05:09 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:05:10 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (937 ms)
+2026-11-03 02:07:14 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 02:07:14 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 02:07:21 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:07:21 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:07:23 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:07:24 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (2322 ms)
+2026-11-03 02:07:30 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:07:30 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:07:32 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1398 ms)
+2026-11-03 02:07:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:07:40 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:07:41 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1160 ms)
+2026-11-03 02:07:46 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:07:46 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:07:47 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1067 ms)
+2026-11-03 02:07:52 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 02:07:52 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:07:53 ERROR [main] LoginTestListener - Test failed: demoFailedTest (993 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:07:53 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793651873584_fc13c782-4ccb-411d-9457-418e1013c247.png
+2026-11-03 02:08:00 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 02:08:04 INFO  [main] LoginTestListener - Test passed: emptyLogin (4153 ms)
+2026-11-03 02:08:13 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 02:08:13 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:08:14 INFO  [main] LoginTestListener - Test passed: emptyPassword (918 ms)
+2026-11-03 02:08:20 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:08:20 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 02:08:21 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (958 ms)
+2026-11-03 02:08:26 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:08:26 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 02:08:28 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1480 ms)
+2026-11-03 02:08:33 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:08:33 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 02:08:34 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (924 ms)
+2026-11-03 02:08:38 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:08:38 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:08:39 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1380 ms)
+2026-11-03 02:08:46 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:08:46 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:08:47 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (949 ms)
+2026-11-03 02:08:53 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:08:53 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:08:54 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (957 ms)
+2026-11-03 02:09:02 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 02:09:02 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:09:03 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1065 ms)
+2026-11-03 02:09:13 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 02:09:13 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:09:14 INFO  [main] LoginTestListener - Test passed: invalidPassword (888 ms)
+2026-11-03 02:09:19 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 02:09:19 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:09:20 INFO  [main] LoginTestListener - Test passed: invalidUsername (955 ms)
+2026-11-03 02:09:25 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 02:09:25 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 02:09:26 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (924 ms)
+2026-11-03 02:09:32 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 02:09:32 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:09:34 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1576 ms)
+2026-11-03 02:09:38 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 02:09:39 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (127 ms)
+2026-11-03 02:09:45 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 02:09:45 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:09:46 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:09:46 INFO  [main] LoginTestListener - Test passed: logoutTest (1695 ms)
+2026-11-03 02:09:52 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 02:09:52 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (158 ms)
+2026-11-03 02:09:57 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 02:09:57 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:09:58 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:10:00 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (2168 ms)
+2026-11-03 02:10:05 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-03 02:10:06 INFO  [main] LoginTestListener - Test passed: secureAreaRequiresAuthentication (598 ms)
+2026-11-03 02:10:11 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-03 02:10:11 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:10:11 INFO  [main] LoginTestListener - Test passed: validLoginShowsSecureArea (876 ms)
+2026-11-03 02:10:17 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-03 02:10:17 INFO  [main] LoginPage - Attempting login with username '   '
+2026-11-03 02:10:18 INFO  [main] LoginTestListener - Test passed: whitespaceUsernameIsRejected (968 ms)
+2026-11-03 02:10:19 INFO  [main] LoginTestListener - Extent report generated at C:\Users\vansh\OneDrive\Desktop\LoginAutomationProject\target\ExtentReports\ExtentReport.html
+2026-11-03 02:14:12 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 02:14:12 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 02:14:17 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:14:17 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:14:18 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:14:19 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1717 ms)
+2026-11-03 02:14:25 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:14:25 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:14:26 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (976 ms)
+2026-11-03 02:14:33 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:14:33 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:14:34 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1000 ms)
+2026-11-03 02:14:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:14:40 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:14:41 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1010 ms)
+2026-11-03 02:14:47 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 02:14:47 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:14:48 ERROR [main] LoginTestListener - Test failed: demoFailedTest (851 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:14:48 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793652288602_24f2a8ca-e4d8-4037-8cf1-ae2aeb52e50c.png
+2026-11-03 02:14:53 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 02:14:53 INFO  [main] LoginTestListener - Test passed: emptyLogin (722 ms)
+2026-11-03 02:14:59 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 02:14:59 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:15:00 INFO  [main] LoginTestListener - Test passed: emptyPassword (840 ms)
+2026-11-03 02:15:10 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:15:10 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 02:15:11 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1534 ms)
+2026-11-03 02:15:20 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:15:20 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 02:15:20 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (970 ms)
+2026-11-03 02:15:28 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:15:28 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 02:15:29 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (884 ms)
+2026-11-03 02:15:39 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:15:39 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:15:39 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (926 ms)
+2026-11-03 02:16:38 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 02:16:39 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 02:16:51 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:16:51 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:16:53 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:17:04 ERROR [main] LoginTestListener - Test failed: credentialCombinationsBehaveAsExpected (13401 ms)
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "/login". Current url: "https://the-internet.herokuapp.com/secure"
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.74, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\vansh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58081}, goog:processID: 20276, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58081/devtoo..., se:cdpVersion: 156.0.8078.74, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40cd231634749a257b0463875b4af3cd
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:233)
+	at pages.LoginPage.logout(LoginPage.java:138)
+	at tests.LoginTest.credentialCombinationsBehaveAsExpected(LoginTest.java:311)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:17:04 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\credentialCombinationsBehaveAsExpected_1793652424469_2b1c15a9-8f38-4908-bf10-74cbc8d2c75d.png
+2026-11-03 02:17:09 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:17:09 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:17:14 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (4666 ms)
+2026-11-03 02:17:21 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:17:21 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:17:22 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1139 ms)
+2026-11-03 02:17:30 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:17:30 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:17:31 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1041 ms)
+2026-11-03 02:17:37 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 02:17:37 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:17:38 ERROR [main] LoginTestListener - Test failed: demoFailedTest (1252 ms)
+java.lang.AssertionError: Heading validation failed expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:331)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:17:38 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793652458622_5e20d97e-3028-42fe-aed4-6626d5349251.png
+2026-11-03 02:17:46 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 02:17:48 INFO  [main] LoginTestListener - Test passed: emptyLogin (1490 ms)
+2026-11-03 02:17:55 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 02:17:55 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:17:56 INFO  [main] LoginTestListener - Test passed: emptyPassword (1401 ms)
+2026-11-03 02:18:03 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:18:03 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 02:18:05 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1435 ms)
+2026-11-03 02:18:11 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:18:11 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 02:18:12 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1611 ms)
+2026-11-03 02:18:18 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:18:18 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 02:18:20 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1346 ms)
+2026-11-03 02:18:26 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:18:26 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:18:27 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1369 ms)
+2026-11-03 02:18:32 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:18:32 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:18:33 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (801 ms)
+2026-11-03 02:18:38 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:18:38 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:18:39 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (881 ms)
+2026-11-03 02:18:43 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 02:18:43 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:18:44 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (974 ms)
+2026-11-03 02:18:49 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 02:18:49 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:18:50 INFO  [main] LoginTestListener - Test passed: invalidPassword (799 ms)
+2026-11-03 02:18:56 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 02:18:56 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:18:57 INFO  [main] LoginTestListener - Test passed: invalidUsername (795 ms)
+2026-11-03 02:19:01 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 02:19:01 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 02:19:01 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (735 ms)
+2026-11-03 02:19:06 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 02:19:06 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:19:08 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1443 ms)
+2026-11-03 02:19:12 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 02:19:12 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (122 ms)
+2026-11-03 02:19:16 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 02:19:16 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:19:17 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:19:18 INFO  [main] LoginTestListener - Test passed: logoutTest (1825 ms)
+2026-11-03 02:19:27 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 02:19:27 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (150 ms)
+2026-11-03 02:19:33 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 02:19:33 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:19:34 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:19:35 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (2004 ms)
+2026-11-03 02:19:41 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-03 02:19:41 INFO  [main] LoginTestListener - Test passed: secureAreaRequiresAuthentication (544 ms)
+2026-11-03 02:19:45 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-03 02:19:45 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:19:46 INFO  [main] LoginTestListener - Test passed: validLoginShowsSecureArea (947 ms)
+2026-11-03 02:19:54 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-03 02:19:54 INFO  [main] LoginPage - Attempting login with username '   '
+2026-11-03 02:19:54 INFO  [main] LoginTestListener - Test passed: whitespaceUsernameIsRejected (959 ms)
+2026-11-03 02:19:55 INFO  [main] LoginTestListener - Extent report generated at C:\Users\vansh\OneDrive\Desktop\LoginAutomationProject\target\ExtentReports\ExtentReport.html
+2026-11-03 02:25:19 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 02:25:19 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 02:25:26 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:25:26 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:25:27 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:25:28 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1658 ms)
+2026-11-03 02:25:36 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:25:36 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:25:37 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1022 ms)
+2026-11-03 02:25:40 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:25:40 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:25:41 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (893 ms)
+2026-11-03 02:25:45 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:25:45 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:25:46 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1006 ms)
+2026-11-03 02:25:51 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 02:25:52 INFO  [main] LoginTestListener - Test passed: emptyLogin (741 ms)
+2026-11-03 02:25:56 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 02:25:56 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:25:57 INFO  [main] LoginTestListener - Test passed: emptyPassword (831 ms)
+2026-11-03 02:26:03 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:26:03 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 02:26:04 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (850 ms)
+2026-11-03 02:26:10 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:26:10 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 02:26:11 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1327 ms)
+2026-11-03 02:26:24 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:26:24 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 02:26:25 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1214 ms)
+2026-11-03 02:26:37 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:26:37 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:26:38 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1137 ms)
+2026-11-03 02:26:50 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:26:50 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:26:51 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1023 ms)
+2026-11-03 02:26:57 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:26:57 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:26:58 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (883 ms)
+2026-11-03 02:27:06 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 02:27:06 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:27:07 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1101 ms)
+2026-11-03 02:27:22 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 02:27:22 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:27:22 INFO  [main] LoginTestListener - Test passed: invalidPassword (826 ms)
+2026-11-03 02:27:29 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 02:27:29 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:27:30 INFO  [main] LoginTestListener - Test passed: invalidUsername (1103 ms)
+2026-11-03 02:27:35 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 02:27:35 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 02:27:36 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (931 ms)
+2026-11-03 02:27:42 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 02:27:42 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:27:44 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1613 ms)
+2026-11-03 02:27:50 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 02:27:50 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (128 ms)
+2026-11-03 02:27:54 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 02:27:54 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:27:55 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:27:55 INFO  [main] LoginTestListener - Test passed: logoutTest (1583 ms)
+2026-11-03 02:28:02 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 02:28:02 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (152 ms)
+2026-11-03 02:28:06 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 02:28:06 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:28:06 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:28:08 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (2160 ms)
+2026-11-03 02:28:14 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-03 02:28:15 INFO  [main] LoginTestListener - Test passed: secureAreaRequiresAuthentication (591 ms)
+2026-11-03 02:28:20 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-03 02:28:20 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:28:21 INFO  [main] LoginTestListener - Test passed: validLoginShowsSecureArea (1538 ms)
+2026-11-03 02:28:25 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-03 02:28:25 INFO  [main] LoginPage - Attempting login with username '   '
+2026-11-03 02:28:26 INFO  [main] LoginTestListener - Test passed: whitespaceUsernameIsRejected (873 ms)
+2026-11-03 02:28:26 INFO  [main] LoginTestListener - Extent report generated at C:\Users\vansh\OneDrive\Desktop\LoginAutomationProject\target\ExtentReports\ExtentReport.html
+2026-11-03 02:32:30 INFO  [main] Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-11-03 02:32:31 INFO  [main] LoginTestListener - Extent report initialized
+2026-11-03 02:32:42 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:32:42 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:32:43 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:32:43 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1489 ms)
+2026-11-03 02:32:47 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:32:47 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:32:48 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1132 ms)
+2026-11-03 02:32:52 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:32:52 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:32:53 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (1249 ms)
+2026-11-03 02:32:58 INFO  [main] LoginTestListener - Starting test: credentialCombinationsBehaveAsExpected
+2026-11-03 02:32:58 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:32:59 INFO  [main] LoginTestListener - Test passed: credentialCombinationsBehaveAsExpected (931 ms)
+2026-11-03 02:33:02 INFO  [main] LoginTestListener - Starting test: demoFailedTest
+2026-11-03 02:33:02 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:33:03 ERROR [main] LoginTestListener - Test failed: demoFailedTest (1141 ms)
+java.lang.AssertionError: Intentional failure: expected Dashboard but actual heading is Secure Area expected [Dashboard] but found [Secure Area]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at tests.LoginTest.demoFailedTest(LoginTest.java:279)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:33:03 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\demoFailedTest_1793653383789_4b2a7d93-d15e-4a56-bc94-127a7a0a47d2.png
+2026-11-03 02:33:11 INFO  [main] LoginTestListener - Starting test: emptyLogin
+2026-11-03 02:33:13 INFO  [main] LoginTestListener - Test passed: emptyLogin (2514 ms)
+2026-11-03 02:33:20 INFO  [main] LoginTestListener - Starting test: emptyPassword
+2026-11-03 02:33:20 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:33:21 INFO  [main] LoginTestListener - Test passed: emptyPassword (1134 ms)
+2026-11-03 02:33:25 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:33:25 INFO  [main] LoginPage - Attempting login with username 'TomSmith'
+2026-11-03 02:33:26 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1066 ms)
+2026-11-03 02:33:32 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:33:32 INFO  [main] LoginPage - Attempting login with username ' tomsmith'
+2026-11-03 02:33:33 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1487 ms)
+2026-11-03 02:33:39 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:33:39 INFO  [main] LoginPage - Attempting login with username 'tomsmith '
+2026-11-03 02:33:40 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (946 ms)
+2026-11-03 02:33:46 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:33:46 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:33:47 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (960 ms)
+2026-11-03 02:33:51 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:33:51 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:33:52 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (955 ms)
+2026-11-03 02:33:56 INFO  [main] LoginTestListener - Starting test: invalidCredentialCombinationsAreRejected
+2026-11-03 02:33:56 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:33:57 INFO  [main] LoginTestListener - Test passed: invalidCredentialCombinationsAreRejected (1052 ms)
+2026-11-03 02:34:01 INFO  [main] LoginTestListener - Starting test: invalidLoginKeepsUserOnLoginPage
+2026-11-03 02:34:01 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:34:02 INFO  [main] LoginTestListener - Test passed: invalidLoginKeepsUserOnLoginPage (1056 ms)
+2026-11-03 02:34:08 INFO  [main] LoginTestListener - Starting test: invalidPassword
+2026-11-03 02:34:08 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:34:09 INFO  [main] LoginTestListener - Test passed: invalidPassword (852 ms)
+2026-11-03 02:34:14 INFO  [main] LoginTestListener - Starting test: invalidUsername
+2026-11-03 02:34:14 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:34:15 INFO  [main] LoginTestListener - Test passed: invalidUsername (1061 ms)
+2026-11-03 02:34:20 INFO  [main] LoginTestListener - Starting test: loginCanBeSubmittedWithEnterKey
+2026-11-03 02:34:20 INFO  [main] LoginPage - Attempting login with username 'tomsmith' using Enter
+2026-11-03 02:34:21 INFO  [main] LoginTestListener - Test passed: loginCanBeSubmittedWithEnterKey (1011 ms)
+2026-11-03 02:34:26 INFO  [main] LoginTestListener - Starting test: loginErrorCanBeDismissed
+2026-11-03 02:34:26 INFO  [main] LoginPage - Attempting login with username 'vanshika'
+2026-11-03 02:34:27 INFO  [main] LoginTestListener - Test passed: loginErrorCanBeDismissed (1839 ms)
+2026-11-03 02:34:34 INFO  [main] LoginTestListener - Starting test: loginPageDisplaysExpectedElements
+2026-11-03 02:34:34 INFO  [main] LoginTestListener - Test passed: loginPageDisplaysExpectedElements (124 ms)
+2026-11-03 02:34:39 INFO  [main] LoginTestListener - Starting test: logoutTest
+2026-11-03 02:34:39 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:34:41 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:34:51 ERROR [main] LoginTestListener - Test failed: logoutTest (11748 ms)
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain "/login". Current url: "https://the-internet.herokuapp.com/secure"
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.74, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\vansh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56942}, goog:processID: 31636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56942/devtoo..., se:cdpVersion: 156.0.8078.74, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c0f083febe5eb1aa535a4462e0f4b53b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:233)
+	at pages.LoginPage.logout(LoginPage.java:138)
+	at tests.LoginTest.logoutTest(LoginTest.java:145)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2026-11-03 02:34:51 INFO  [main] LoginTestListener - Failure screenshot saved to target\screenshots\logoutTest_1793653491560_bb004cf3-2ca0-4871-b34f-2294a4dbadad.png
+2026-11-03 02:34:57 INFO  [main] LoginTestListener - Starting test: passwordFieldMasksCharacters
+2026-11-03 02:34:58 INFO  [main] LoginTestListener - Test passed: passwordFieldMasksCharacters (161 ms)
+2026-11-03 02:35:02 INFO  [main] LoginTestListener - Starting test: secureAreaIsUnavailableAfterLogout
+2026-11-03 02:35:02 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:35:03 INFO  [main] LoginPage - Logging out of the secure area
+2026-11-03 02:35:04 INFO  [main] LoginTestListener - Test passed: secureAreaIsUnavailableAfterLogout (2861 ms)
+2026-11-03 02:35:11 INFO  [main] LoginTestListener - Starting test: secureAreaRequiresAuthentication
+2026-11-03 02:35:11 INFO  [main] LoginTestListener - Test passed: secureAreaRequiresAuthentication (878 ms)
+2026-11-03 02:35:16 INFO  [main] LoginTestListener - Starting test: validLoginShowsSecureArea
+2026-11-03 02:35:16 INFO  [main] LoginPage - Attempting login with username 'tomsmith'
+2026-11-03 02:35:17 INFO  [main] LoginTestListener - Test passed: validLoginShowsSecureArea (916 ms)
+2026-11-03 02:35:21 INFO  [main] LoginTestListener - Starting test: whitespaceUsernameIsRejected
+2026-11-03 02:35:21 INFO  [main] LoginPage - Attempting login with username '   '
+2026-11-03 02:35:22 INFO  [main] LoginTestListener - Test passed: whitespaceUsernameIsRejected (1025 ms)
+2026-11-03 02:35:23 INFO  [main] LoginTestListener - Extent report generated at C:\Users\vansh\OneDrive\Desktop\LoginAutomationProject\target\ExtentReports\ExtentReport.html

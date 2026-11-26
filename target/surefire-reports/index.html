@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Login_Automation_Suite" class="navigator-link">
+              <span class="suite-name border-failed">Login Automation Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Login_Automation_Suite" class="navigator-link ">
+                    <span>C:\Users\vansh\OneDrive\Desktop\LoginAutomationProject\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Login_Automation_Suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Login_Automation_Suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Login_Automation_Suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Login_Automation_Suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Login_Automation_Suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Login_Automation_Suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">25 methods, 2 failed,   23 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Login_Automation_Suite" class="hide-methods failed suite-Login_Automation_Suite"> (hide)</a> <!-- hide-methods failed suite-Login_Automation_Suite -->
+                      <a href="#" panel-name="suite-Login_Automation_Suite" class="show-methods failed suite-Login_Automation_Suite"> (show)</a> <!-- show-methods failed suite-Login_Automation_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Login_Automation_Suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="demoFailedTest">demoFailedTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="logoutTest">logoutTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Login_Automation_Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Login_Automation_Suite" class="hide-methods passed suite-Login_Automation_Suite"> (hide)</a> <!-- hide-methods passed suite-Login_Automation_Suite -->
+                      <a href="#" panel-name="suite-Login_Automation_Suite" class="show-methods passed suite-Login_Automation_Suite"> (show)</a> <!-- show-methods passed suite-Login_Automation_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Login_Automation_Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="credentialCombinationsBehaveAsExpected(invalid username with valid password, vanshika, SuperSecretPassword!, false, Your username is invali...)">credentialCombinationsBehaveAsExpected(invalid username with valid password, vanshika, SuperSecretPassword!, false, Your username is invali...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="credentialCombinationsBehaveAsExpected(invalid username and password, vanshika, hehehe, false, Your username is invalid!)">credentialCombinationsBehaveAsExpected(invalid username and password, vanshika, hehehe, false, Your username is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="credentialCombinationsBehaveAsExpected(valid credentials, tomsmith, SuperSecretPassword!, true, )">credentialCombinationsBehaveAsExpected(valid credentials, tomsmith, SuperSecretPassword!, true, )</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="credentialCombinationsBehaveAsExpected(valid username and invalid password, tomsmith, hehehe, false, Your password is invalid!)">credentialCombinationsBehaveAsExpected(valid username and invalid password, tomsmith, hehehe, false, Your password is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="emptyLogin">emptyLogin</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="emptyPassword">emptyPassword</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidCredentialCombinationsAreRejected(password with leading whitespace, tomsmith,  SuperSecretPassword!, Your password is invalid!)">invalidCredentialCombinationsAreRejected(password with leading whitespace, tomsmith,  SuperSecretPassword!, Your password is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidCredentialCombinationsAreRejected(username with leading whitespace,  tomsmith, SuperSecretPassword!, Your username is invalid!)">invalidCredentialCombinationsAreRejected(username with leading whitespace,  tomsmith, SuperSecretPassword!, Your username is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidCredentialCombinationsAreRejected(username with trailing whitespace, tomsmith , SuperSecretPassword!, Your username is invalid!)">invalidCredentialCombinationsAreRejected(username with trailing whitespace, tomsmith , SuperSecretPassword!, Your username is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidCredentialCombinationsAreRejected(uppercase username, TomSmith, SuperSecretPassword!, Your username is invalid!)">invalidCredentialCombinationsAreRejected(uppercase username, TomSmith, SuperSecretPassword!, Your username is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidCredentialCombinationsAreRejected(uppercase password, tomsmith, supersecretpassword!, Your password is invalid!)">invalidCredentialCombinationsAreRejected(uppercase password, tomsmith, supersecretpassword!, Your password is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidCredentialCombinationsAreRejected(password with trailing whitespace, tomsmith, SuperSecretPassword! , Your password is invalid!)">invalidCredentialCombinationsAreRejected(password with trailing whitespace, tomsmith, SuperSecretPassword! , Your password is invalid!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidLoginKeepsUserOnLoginPage">invalidLoginKeepsUserOnLoginPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidPassword">invalidPassword</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="invalidUsername">invalidUsername</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="loginCanBeSubmittedWithEnterKey">loginCanBeSubmittedWithEnterKey</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="loginErrorCanBeDismissed">loginErrorCanBeDismissed</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="loginPageDisplaysExpectedElements">loginPageDisplaysExpectedElements</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="passwordFieldMasksCharacters">passwordFieldMasksCharacters</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="secureAreaIsUnavailableAfterLogout">secureAreaIsUnavailableAfterLogout</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="secureAreaRequiresAuthentication">secureAreaRequiresAuthentication</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="validLoginShowsSecureArea">validLoginShowsSecureArea</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Login_Automation_Suite" title="tests.LoginTest" class="method navigator-link" hash-for-method="whitespaceUsernameIsRejected">whitespaceUsernameIsRejected</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Login_Automation_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Login_Automation_Suite" class="panel Login_Automation_Suite">
+          <div class="suite-Login_Automation_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">tests.LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="demoFailedTest">
+                  </a> <!-- demoFailedTest -->
+                  <span class="method-name">demoFailedTest</span>
+                  <div class="stack-trace">java.lang.AssertionError: Intentional failure: expected Dashboard but actual heading is Secure Area expected [Dashboard] but found [Secure Area]
+	at tests.LoginTest.demoFailedTest(LoginTest.java:279)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+... Removed 34 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Demonstrates failed heading validation)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="logoutTest">
+                  </a> <!-- logoutTest -->
+                  <span class="method-name">logoutTest</span>
+                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to contain &quot;/login&quot;. Current url: &quot;https://the-internet.herokuapp.com/secure&quot;
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: &apos;4.41.0&apos;, revision: &apos;9fc754f&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;25.0.3&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.74, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\vansh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56942}, goog:processID: 31636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56942/devtoo..., se:cdpVersion: 156.0.8078.74, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c0f083febe5eb1aa535a4462e0f4b53b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:233)
+	at pages.LoginPage.logout(LoginPage.java:138)
+	at tests.LoginTest.logoutTest(LoginTest.java:145)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+... Removed 29 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Logout returns user to login page)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Login_Automation_Suite-class-failed -->
+          <div class="suite-Login_Automation_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">tests.LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="credentialCombinationsBehaveAsExpected(invalid username with valid password, vanshika, SuperSecretPassword!, false, Your username is invali...)">
+                  </a> <!-- credentialCombinationsBehaveAsExpected(invalid username with valid password, vanshika, SuperSecretPassword!, false, Your username is invali...) -->
+                  <span class="method-name">credentialCombinationsBehaveAsExpected</span>
+                  <span class="parameters">(invalid username with valid password,vanshika,SuperSecretPassword!,false,Your username is invalid!)</span>
+                  <em>
+(Credential combinations produce expected outcome)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="credentialCombinationsBehaveAsExpected(invalid username and password, vanshika, hehehe, false, Your username is invalid!)">
+                  </a> <!-- credentialCombinationsBehaveAsExpected(invalid username and password, vanshika, hehehe, false, Your username is invalid!) -->
+                  <span class="method-name">credentialCombinationsBehaveAsExpected</span>
+                  <span class="parameters">(invalid username and password,vanshika,hehehe,false,Your username is invalid!)</span>
+                  <em>
+(Credential combinations produce expected outcome)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="credentialCombinationsBehaveAsExpected(valid credentials, tomsmith, SuperSecretPassword!, true, )">
+                  </a> <!-- credentialCombinationsBehaveAsExpected(valid credentials, tomsmith, SuperSecretPassword!, true, ) -->
+                  <span class="method-name">credentialCombinationsBehaveAsExpected</span>
+                  <span class="parameters">(valid credentials,tomsmith,SuperSecretPassword!,true,)</span>
+                  <em>
+(Credential combinations produce expected outcome)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="credentialCombinationsBehaveAsExpected(valid username and invalid password, tomsmith, hehehe, false, Your password is invalid!)">
+                  </a> <!-- credentialCombinationsBehaveAsExpected(valid username and invalid password, tomsmith, hehehe, false, Your password is invalid!) -->
+                  <span class="method-name">credentialCombinationsBehaveAsExpected</span>
+                  <span class="parameters">(valid username and invalid password,tomsmith,hehehe,false,Your password is invalid!)</span>
+                  <em>
+(Credential combinations produce expected outcome)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="emptyLogin">
+                  </a> <!-- emptyLogin -->
+                  <span class="method-name">emptyLogin</span>
+                  <em>
+(Empty login is rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="emptyPassword">
+                  </a> <!-- emptyPassword -->
+                  <span class="method-name">emptyPassword</span>
+                  <em>
+(Empty password is rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidCredentialCombinationsAreRejected(password with leading whitespace, tomsmith,  SuperSecretPassword!, Your password is invalid!)">
+                  </a> <!-- invalidCredentialCombinationsAreRejected(password with leading whitespace, tomsmith,  SuperSecretPassword!, Your password is invalid!) -->
+                  <span class="method-name">invalidCredentialCombinationsAreRejected</span>
+                  <span class="parameters">(password with leading whitespace,tomsmith, SuperSecretPassword!,Your password is invalid!)</span>
+                  <em>
+(Invalid credential combinations are rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidCredentialCombinationsAreRejected(username with leading whitespace,  tomsmith, SuperSecretPassword!, Your username is invalid!)">
+                  </a> <!-- invalidCredentialCombinationsAreRejected(username with leading whitespace,  tomsmith, SuperSecretPassword!, Your username is invalid!) -->
+                  <span class="method-name">invalidCredentialCombinationsAreRejected</span>
+                  <span class="parameters">(username with leading whitespace, tomsmith,SuperSecretPassword!,Your username is invalid!)</span>
+                  <em>
+(Invalid credential combinations are rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidCredentialCombinationsAreRejected(username with trailing whitespace, tomsmith , SuperSecretPassword!, Your username is invalid!)">
+                  </a> <!-- invalidCredentialCombinationsAreRejected(username with trailing whitespace, tomsmith , SuperSecretPassword!, Your username is invalid!) -->
+                  <span class="method-name">invalidCredentialCombinationsAreRejected</span>
+                  <span class="parameters">(username with trailing whitespace,tomsmith ,SuperSecretPassword!,Your username is invalid!)</span>
+                  <em>
+(Invalid credential combinations are rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidCredentialCombinationsAreRejected(uppercase username, TomSmith, SuperSecretPassword!, Your username is invalid!)">
+                  </a> <!-- invalidCredentialCombinationsAreRejected(uppercase username, TomSmith, SuperSecretPassword!, Your username is invalid!) -->
+                  <span class="method-name">invalidCredentialCombinationsAreRejected</span>
+                  <span class="parameters">(uppercase username,TomSmith,SuperSecretPassword!,Your username is invalid!)</span>
+                  <em>
+(Invalid credential combinations are rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidCredentialCombinationsAreRejected(uppercase password, tomsmith, supersecretpassword!, Your password is invalid!)">
+                  </a> <!-- invalidCredentialCombinationsAreRejected(uppercase password, tomsmith, supersecretpassword!, Your password is invalid!) -->
+                  <span class="method-name">invalidCredentialCombinationsAreRejected</span>
+                  <span class="parameters">(uppercase password,tomsmith,supersecretpassword!,Your password is invalid!)</span>
+                  <em>
+(Invalid credential combinations are rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidCredentialCombinationsAreRejected(password with trailing whitespace, tomsmith, SuperSecretPassword! , Your password is invalid!)">
+                  </a> <!-- invalidCredentialCombinationsAreRejected(password with trailing whitespace, tomsmith, SuperSecretPassword! , Your password is invalid!) -->
+                  <span class="method-name">invalidCredentialCombinationsAreRejected</span>
+                  <span class="parameters">(password with trailing whitespace,tomsmith,SuperSecretPassword! ,Your password is invalid!)</span>
+                  <em>
+(Invalid credential combinations are rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidLoginKeepsUserOnLoginPage">
+                  </a> <!-- invalidLoginKeepsUserOnLoginPage -->
+                  <span class="method-name">invalidLoginKeepsUserOnLoginPage</span>
+                  <em>
+(Invalid login keeps user on login page)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidPassword">
+                  </a> <!-- invalidPassword -->
+                  <span class="method-name">invalidPassword</span>
+                  <em>
+(Invalid password is rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidUsername">
+                  </a> <!-- invalidUsername -->
+                  <span class="method-name">invalidUsername</span>
+                  <em>
+(Invalid username is rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginCanBeSubmittedWithEnterKey">
+                  </a> <!-- loginCanBeSubmittedWithEnterKey -->
+                  <span class="method-name">loginCanBeSubmittedWithEnterKey</span>
+                  <em>
+(Login using Enter key)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginErrorCanBeDismissed">
+                  </a> <!-- loginErrorCanBeDismissed -->
+                  <span class="method-name">loginErrorCanBeDismissed</span>
+                  <em>
+(Login error can be dismissed)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginPageDisplaysExpectedElements">
+                  </a> <!-- loginPageDisplaysExpectedElements -->
+                  <span class="method-name">loginPageDisplaysExpectedElements</span>
+                  <em>
+(Login page displays expected elements)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="passwordFieldMasksCharacters">
+                  </a> <!-- passwordFieldMasksCharacters -->
+                  <span class="method-name">passwordFieldMasksCharacters</span>
+                  <em>
+(Password field masks characters)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="secureAreaIsUnavailableAfterLogout">
+                  </a> <!-- secureAreaIsUnavailableAfterLogout -->
+                  <span class="method-name">secureAreaIsUnavailableAfterLogout</span>
+                  <em>
+(Secure area unavailable after logout)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="secureAreaRequiresAuthentication">
+                  </a> <!-- secureAreaRequiresAuthentication -->
+                  <span class="method-name">secureAreaRequiresAuthentication</span>
+                  <em>
+(Secure area requires authentication)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validLoginShowsSecureArea">
+                  </a> <!-- validLoginShowsSecureArea -->
+                  <span class="method-name">validLoginShowsSecureArea</span>
+                  <em>
+(Valid credentials open secure area)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="whitespaceUsernameIsRejected">
+                  </a> <!-- whitespaceUsernameIsRejected -->
+                  <span class="method-name">whitespaceUsernameIsRejected</span>
+                  <em>
+(Whitespace username is rejected)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Login_Automation_Suite-class-passed -->
+        </div> <!-- panel Login_Automation_Suite -->
+        <div panel-name="test-xml-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\vansh\OneDrive\Desktop\LoginAutomationProject\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Login Automation Suite&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;tests.LoginTestListener&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Login Tests&quot; verbose=&quot;0&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;tests.LoginTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Login Tests --&gt;
+&lt;/suite&gt; &lt;!-- Login Automation Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Login Automation Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Login Tests (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Login Automation Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Login Automation Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Login_Automation_Suite');
+function tableData_Login_Automation_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(25);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'logoutTest')
+data.setCell(0, 2, 'tests.LoginTest')
+data.setCell(0, 3, 11748);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'secureAreaIsUnavailableAfterLogout')
+data.setCell(1, 2, 'tests.LoginTest')
+data.setCell(1, 3, 2861);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'emptyLogin')
+data.setCell(2, 2, 'tests.LoginTest')
+data.setCell(2, 3, 2514);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'loginErrorCanBeDismissed')
+data.setCell(3, 2, 'tests.LoginTest')
+data.setCell(3, 3, 1839);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'credentialCombinationsBehaveAsExpected')
+data.setCell(4, 2, 'tests.LoginTest')
+data.setCell(4, 3, 1489);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'invalidCredentialCombinationsAreRejected')
+data.setCell(5, 2, 'tests.LoginTest')
+data.setCell(5, 3, 1487);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'credentialCombinationsBehaveAsExpected')
+data.setCell(6, 2, 'tests.LoginTest')
+data.setCell(6, 3, 1249);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'demoFailedTest')
+data.setCell(7, 2, 'tests.LoginTest')
+data.setCell(7, 3, 1141);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'emptyPassword')
+data.setCell(8, 2, 'tests.LoginTest')
+data.setCell(8, 3, 1134);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'credentialCombinationsBehaveAsExpected')
+data.setCell(9, 2, 'tests.LoginTest')
+data.setCell(9, 3, 1132);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'invalidCredentialCombinationsAreRejected')
+data.setCell(10, 2, 'tests.LoginTest')
+data.setCell(10, 3, 1066);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'invalidUsername')
+data.setCell(11, 2, 'tests.LoginTest')
+data.setCell(11, 3, 1061);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'invalidLoginKeepsUserOnLoginPage')
+data.setCell(12, 2, 'tests.LoginTest')
+data.setCell(12, 3, 1056);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'invalidCredentialCombinationsAreRejected')
+data.setCell(13, 2, 'tests.LoginTest')
+data.setCell(13, 3, 1052);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'whitespaceUsernameIsRejected')
+data.setCell(14, 2, 'tests.LoginTest')
+data.setCell(14, 3, 1025);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'loginCanBeSubmittedWithEnterKey')
+data.setCell(15, 2, 'tests.LoginTest')
+data.setCell(15, 3, 1011);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'invalidCredentialCombinationsAreRejected')
+data.setCell(16, 2, 'tests.LoginTest')
+data.setCell(16, 3, 960);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'invalidCredentialCombinationsAreRejected')
+data.setCell(17, 2, 'tests.LoginTest')
+data.setCell(17, 3, 955);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'invalidCredentialCombinationsAreRejected')
+data.setCell(18, 2, 'tests.LoginTest')
+data.setCell(18, 3, 946);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'credentialCombinationsBehaveAsExpected')
+data.setCell(19, 2, 'tests.LoginTest')
+data.setCell(19, 3, 931);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'validLoginShowsSecureArea')
+data.setCell(20, 2, 'tests.LoginTest')
+data.setCell(20, 3, 916);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'secureAreaRequiresAuthentication')
+data.setCell(21, 2, 'tests.LoginTest')
+data.setCell(21, 3, 878);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'invalidPassword')
+data.setCell(22, 2, 'tests.LoginTest')
+data.setCell(22, 3, 852);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'passwordFieldMasksCharacters')
+data.setCell(23, 2, 'tests.LoginTest')
+data.setCell(23, 3, 161);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'loginPageDisplaysExpectedElements')
+data.setCell(24, 2, 'tests.LoginTest')
+data.setCell(24, 3, 124);
+window.suiteTableData['Login_Automation_Suite']= { tableData: data, tableDiv: 'times-div-Login_Automation_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 39 seconds</span>
+              <div id="times-div-Login_Automation_Suite">
+              </div> <!-- times-div-Login_Automation_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Login Automation Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Login_Automation_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">tests.LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">credentialCombinationsBehaveAsExpected(valid credentials, tomsmith, SuperSecretPassword!, true, )</span>
+                <span class="method-start">10529 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">12032 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">12211 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">credentialCombinationsBehaveAsExpected(invalid username and password, vanshika, hehehe, false, Your username is invalid!)</span>
+                <span class="method-start">15877 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">17009 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">17225 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">credentialCombinationsBehaveAsExpected(valid username and invalid password, tomsmith, hehehe, false, Your password is invalid!)</span>
+                <span class="method-start">20443 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">21693 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">21875 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">credentialCombinationsBehaveAsExpected(invalid username with valid password, vanshika, SuperSecretPassword!, false, Your username is invali...)</span>
+                <span class="method-start">26226 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">27159 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">27321 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">demoFailedTest</span>
+                <span class="method-start">30692 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">32066 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">32740 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">emptyLogin</span>
+                <span class="method-start">39390 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">41904 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">42544 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">emptyPassword</span>
+                <span class="method-start">48126 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">49260 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">49530 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidCredentialCombinationsAreRejected(uppercase username, TomSmith, SuperSecretPassword!, Your username is invalid!)</span>
+                <span class="method-start">53885 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">54958 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">55108 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidCredentialCombinationsAreRejected(username with leading whitespace,  tomsmith, SuperSecretPassword!, Your username is invalid!)</span>
+                <span class="method-start">60266 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">61753 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">61907 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidCredentialCombinationsAreRejected(username with trailing whitespace, tomsmith , SuperSecretPassword!, Your username is invalid!)</span>
+                <span class="method-start">67641 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">68591 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">68753 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidCredentialCombinationsAreRejected(uppercase password, tomsmith, supersecretpassword!, Your password is invalid!)</span>
+                <span class="method-start">74798 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">75758 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">75961 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidCredentialCombinationsAreRejected(password with leading whitespace, tomsmith,  SuperSecretPassword!, Your password is invalid!)</span>
+                <span class="method-start">79991 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">80946 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">81105 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidCredentialCombinationsAreRejected(password with trailing whitespace, tomsmith, SuperSecretPassword! , Your password is invalid!)</span>
+                <span class="method-start">84699 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">85758 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">85908 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidLoginKeepsUserOnLoginPage</span>
+                <span class="method-start">89551 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">90613 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">90789 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidPassword</span>
+                <span class="method-start">97016 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">97869 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">98046 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">invalidUsername</span>
+                <span class="method-start">102430 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">103491 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">103648 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginCanBeSubmittedWithEnterKey</span>
+                <span class="method-start">108530 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">109541 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">109688 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginErrorCanBeDismissed</span>
+                <span class="method-start">114183 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">116022 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">116221 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginPageDisplaysExpectedElements</span>
+                <span class="method-start">122667 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">122791 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">122978 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">logoutTest</span>
+                <span class="method-start">127866 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">139718 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">139959 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">passwordFieldMasksCharacters</span>
+                <span class="method-start">146031 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">146192 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">146382 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">secureAreaIsUnavailableAfterLogout</span>
+                <span class="method-start">150080 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">152941 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">153109 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">secureAreaRequiresAuthentication</span>
+                <span class="method-start">159064 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">159942 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">160160 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validLoginShowsSecureArea</span>
+                <span class="method-start">164853 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">165769 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">165940 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">whitespaceUsernameIsRejected</span>
+                <span class="method-start">169892 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">170917 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
